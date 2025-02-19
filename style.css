@@ -1,0 +1,119 @@
+.container{
+    background-color: #f2f2f2;
+    padding: 0px;
+    margin: 0px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    overflow: hidden;
+}
+.ai-powered{
+    background-color: lightskyblue;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    overflow: hidden;
+}
+header {
+    background-color: #4CAF50;
+    padding: 20px;
+    margin: 0;
+    border-radius: 10px 10px 0 0;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+}
+.about{
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    overflow: hidden;
+}
+.main{
+    background-color: lightblue;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    overflow: hidden;
+}
+.about2{
+    background-color: lightblue;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    overflow: hidden;
+}
+
+.about3{
+    background-color: blue;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    overflow: hidden;
+    color: white;
+    width: 50%;
+    margin-left: 25%;    
+}
+.image{
+    width: 100%;
+    height: 400px;
+    display: block;
+    border-radius: 10px;
+    margin: 0px;
+}
+.image2{
+    background-image: url('path/to/your/image.jpg');
+    width: 100%;
+    height: 400px;
+    display: block;
+    border-radius: 10px;
+    margin: 0px;
+}
+.header-but{
+    background-color: blue;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    width: 50%;
+}
+.img-text{
+    background-color: blue;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    overflow: hidden;
+    color: aliceblue;
+    font-size: 110px;
+}
+.main-footer{
+    background-color: #b0c7b0;
+    padding: 20px;
+    margin: 0;
+    border-radius: 0 0 10px 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    clear: both;
+}
